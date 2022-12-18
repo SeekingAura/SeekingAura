@@ -1,5 +1,32 @@
 ### Hi there 👋
 
+🔭 I’m currently working on https://inlaze.com
+
+# Projects
+
+## Technological University of Pereira
+### Solving 8puzzle with A* implemented with Java on Robot Lego Ev3 - Course project
+https://github.com/SeekingAura/RobotLegoEV3Java8Puzzle
+
+### Mobile App for Bird Recognition at JBUTP - Computer Science Bachelor Thesis
+https://repositorio.utp.edu.co/items/31b214e0-822f-4ddd-b0a1-d61708a1c32a
+
+### PhytoVision: Sistema de medición de crecimiento In vitro de plántulas de Lactuca sativa L. - Computer Science Master's Thesis
+https://repositorio.utp.edu.co/items/85784114-45ed-4161-a9ea-63f1fbe38e19
+
+### Basics in Internet of Things on raspberry Pi - Course Instructor
+#### Public Github Repo with Technical content
+https://github.com/SeekingAura/IoTCurseUTP
+
+#### This was one of extension courses at UTP
+https://repositorio.utp.edu.co/items/60522ca7-4709-48aa-be97-41d148fdf572
+
+
+# Social media
+
+## Linkedin
+https://www.linkedin.com/in/carlos-moreno-4b323022b/
+
 <!--
 **SeekingAura/SeekingAura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
