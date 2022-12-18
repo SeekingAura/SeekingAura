@@ -2,6 +2,21 @@
 
 🔭 I’m currently working on https://inlaze.com
 
+# Table of Contents
+
+- [Projects](#projects)
+  * [Technological University of Pereira](#technological-university-of-pereira)
+    + [Solving 8puzzle with A* implemented with Java on Robot Lego Ev3 - Course project](#solving-8puzzle-with-a--implemented-with-java-on-robot-lego-ev3---course-project)
+    + [Mobile App for Bird Recognition at JBUTP - Computer Science Bachelor Thesis](#mobile-app-for-bird-recognition-at-jbutp---computer-science-bachelor-thesis)
+    + [PhytoVision: Sistema de medición de crecimiento In vitro de plántulas de Lactuca sativa L. - Computer Science Master's Thesis](#phytovision--sistema-de-medici-n-de-crecimiento-in-vitro-de-pl-ntulas-de-lactuca-sativa-l---computer-science-master-s-thesis)
+    + [Basics in Internet of Things on raspberry Pi - Course Instructor](#basics-in-internet-of-things-on-raspberry-pi---course-instructor)
+      - [Public Github Repo with Technical content](#public-github-repo-with-technical-content)
+      - [This was one of extension courses at UTP](#this-was-one-of-extension-courses-at-utp)
+- [Social media](#social-media)
+  * [Linkedin](#linkedin)
+
+
+
 # Projects
 
 ## Technological University of Pereira
