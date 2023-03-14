@@ -12,7 +12,7 @@ i'm currently learning about game developer i'm apassionated for that
 
 i'm reinforcing my knowledge about C++ on projects like https://www.trinitycore.org/, https://www.azerothcore.org/ execute, make custom modifications and learn from that, ocassionallity i contribute to private servers.
 
-Solve exercises from [exercism](https://exercism.org/) and [HackerRank](https://www.hackerrank.com/) help me to reinforce my knowledge about algorithms, structures, techniques and programming languages in general (current C#, Python and Go).
+Solve exercises from [exercism]([https://exercism.org/](https://exercism.org/profiles/Seeking) and [HackerRank](https://www.hackerrank.com/) help me to reinforce my knowledge about algorithms, structures, techniques and programming languages in general (current C#, Python and Go).
 
 
 # Table of Contents
