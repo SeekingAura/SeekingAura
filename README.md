@@ -37,39 +37,117 @@ Solve exercises from [exercism](https://exercism.org/profiles/Seeking) and [Hack
 
 
 # Stack and Knowledge
-Defined 1 to 5 where 1 is **Begginer** 5 is **Expert**
+
+<!--
+# Simple wya to create vars
+# Bar config
+full_bar_size = 25
+
+bar_fill="█"
+bar_empty="░"
+
+# Calcule proportion
+base_value=5
+to_calculate=4.3 # Modify here
+percentage_result=to_calculate/base_value
+
+# Bar build
+bar_result=bar_fill*int(full_bar_size*percentage_result)
+bar_result=bar_result.ljust(full_bar_size, bar_empty)
+
+bar_result
+
+# alternative https://github.com/anmol098/waka-readme-stats#new-to-wakatime
+# more check https://github.com/abhisheknaiidu/awesome-github-profile-readme#tools
+-->
+This is how I self-define my Skills/knowledge from 0 to 5 where 0 is **Begginer** 5 is **Expert**.
 
 ## Programming
-* **Python3:** 4.3 (Preferred)
-* **C/C++:** 3.5
-* **C#:** 3.7 (Learning)
-* **Java:** 2.6
-* **TypeScript:** 2.9
-* **Go:** 1.0 (Learning)
+<!--
+Python,     █████████████████████░░░░, 4.3
+C/C++,      █████████████████░░░░░░░░, 3.5
+C#,         ██████████████████░░░░░░░, 3.7
+Java,       █████████████░░░░░░░░░░░░, 2.6
+TypeScript, ██████████████░░░░░░░░░░░, 2.9
+Go,         ██░░░░░░░░░░░░░░░░░░░░░░░, 0.5
+-->
+
+| Language   | Bar                       | Raw           |
+|------------|---------------------------|---------------|
+| Python     | █████████████████████░░░░ | 4\.3          |
+| C/C\+\+    | █████████████████░░░░░░░░ | 3\.5          |
+| C\#        | ██████████████████░░░░░░░ | 3\.7 Learning |
+| Java       | █████████████░░░░░░░░░░░░ | 2\.6          |
+| TypeScript | ██████████████░░░░░░░░░░░ | 2\.9          |
+| Go         | ██░░░░░░░░░░░░░░░░░░░░░░░ | 0\.5 Learning |
+
 
 ## Web
-* **Django Rest Framework:** 3.8
-* **Django:** 3.3
-* **HTML:** 2.6
-* **CSS:** 1.8
+<!--
+Framework/Language,Bar,Raw
+Django Rest Framework, ███████████████████░░░░░░, 3.8
+Django,                ████████████████░░░░░░░░░, 3.3
+HTML,                  █████████████░░░░░░░░░░░░, 2.6
+CSS,                   █████████░░░░░░░░░░░░░░░░, 1.8
+-->
+| Framework/Language    | Bar                       | Raw  |
+|-----------------------|---------------------------|------|
+| Django Rest Framework | ███████████████████░░░░░░ | 3\.8 |
+| Django                | ████████████████░░░░░░░░░ | 3\.3 |
+| HTML                  | █████████████░░░░░░░░░░░░ | 2\.6 |
+| CSS                   | █████████░░░░░░░░░░░░░░░░ | 1\.8 |
 
-## Cloud
-* **AWS:** 3.3
-* **Docker:** 3.6
-* **Cloudflare:** 3.1
+
+## Deployment (Production), Cloud
+<!--
+Tool,Bar,Raw
+AWS,        ████████████████░░░░░░░░░, 3.3
+Docker,     ██████████████████░░░░░░░, 3.6
+Cloudflare, ███████████████░░░░░░░░░░, 3.0
+-->
+| Tool       | Bar                       | Raw  |
+|------------|---------------------------|------|
+| AWS        | ████████████████░░░░░░░░░ | 3\.3 |
+| Docker     | ██████████████████░░░░░░░ | 3\.6 |
+| Cloudflare | ███████████████░░░░░░░░░░ | 3\.0 |
+
 
 ## Quality
-* **Git:** 3.9
-* **SonarQube:** 1.5 (Learning)
+<!--
+Tool,Bar,Raw
+Git,         ███████████████████░░░░░░, 3.9
+SonarQube,   ███████░░░░░░░░░░░░░░░░░░, 1.5 Learning
+-->
+| Tool      | Bar                       | Raw           |
+|-----------|---------------------------|---------------|
+| Git       | ███████████████████░░░░░░ | 3\.9          |
+| SonarQube | ███████░░░░░░░░░░░░░░░░░░ | 1\.5 Learning |
 
 ## DB
-* **Mysql:** 3.0
-* **Postgresql:** 3.5
-* **Mongo:** 2.4
+<!--
+DB system,Bar,Raw
+Mysql,        ███████████████░░░░░░░░░░, 3.0
+Postgresql,   █████████████████░░░░░░░░, 3.5
+Mongo,        ████████████░░░░░░░░░░░░░, 2.4
+-->
+| DB system  | Bar                       | Raw  |
+|------------|---------------------------|------|
+| Mysql      | ███████████████░░░░░░░░░░ | 3\.0 |
+| Postgresql | █████████████████░░░░░░░░ | 3\.5 |
+| Mongo      | ████████████░░░░░░░░░░░░░ | 2\.4 |
+
 
 ## Others
-* **VHDL:** 1.7
-* **MQTT (Rabbitmq):** 2.6
+<!--
+Languages Protocols,Bar,Raw
+VHDL,            ████████░░░░░░░░░░░░░░░░░, 1.7
+MQTT (RabbitMQ), █████████████░░░░░░░░░░░░, 2.6
+-->
+| Languages Protocols | Bar                       | Raw  |
+|---------------------|---------------------------|------|
+| VHDL                | ████████░░░░░░░░░░░░░░░░░ | 1\.7 |
+| MQTT \(RabbitMQ\)   | █████████████░░░░░░░░░░░░ | 2\.6 |
+
 
 # Projects
 
