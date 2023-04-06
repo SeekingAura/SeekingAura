@@ -2,9 +2,9 @@
 
 🔭 I'm currently working on https://inlaze.com
 
-*Know how the things works is the key to improve current solutions*
+*The key to improving current solutions is to know how things work.*
 
-I have formal experience with NGINX, Docker, Django, Node foused on develop websites.
+I have formal experience with NGINX, Docker, Django, Node focused on web development.
 
 🌱 I never stop learning current i'm learning about Python, Data science, Big data Pandas, numpy. 
 
