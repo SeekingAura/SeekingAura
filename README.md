@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I'm currently working on https://inlaze.com
+🔭 I'm currently working on https://inlaze.com Through github user https://github.com/cmoreno-inlaze
 
 *The key to improving current solutions is to know how things work.*
 
