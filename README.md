@@ -5,12 +5,12 @@
 *The key to improving current solutions is to know how things work.*
 
 I have experience on
-* Web Development: Tools like Nginx, Django, Node
-* Containerization: most of my personal and work projects have Dockerfiles and deployment (production) is on linux containers with Docker
-* Data Base Administrator: Manage databases like Postgresql, Oracle, MongoDB, create tables, indexes, users, monitoring and more
-* Data science: Perform analitics over data about organization, operations, billing, fraud detection, alerts, monitoring. Manage data pipelines, help the organizations to reach a gobernament of data.
-* Server Administrador (Linux): i love linux systems more control, more cheaper and Open Source
-* Gaming programming Scripts and Server: Some game "servers" are in C++ and projects like https://www.trinitycore.org/, https://www.azerothcore.org/ i love execute, make changes and contribute to private servers that use these projects with custom modifications, fixes and more.
+* **Data Base Administrator**: Manage databases like Postgresql, Oracle, MongoDB, create tables, indexes, users, monitoring and more
+* **Data science**: Perform analitics over data about organization, operations, billing, fraud detection, alerts, monitoring. Manage data pipelines, help the organizations to reach a gobernament of data.
+* **Web Development**: Tools like Nginx, Django, Node
+* **Containerization**: most of my personal and work projects have Dockerfiles and deployment (production) is on linux containers with Docker
+* **Server Administrador (Linux)**: i love linux systems more control, more cheaper and Open Source
+* **Gaming programming Scripts and Server**: Some game "servers" are in C++ and projects like https://www.trinitycore.org/, https://www.azerothcore.org/ i love execute, make changes and contribute to private servers that use these projects with custom modifications, fixes and more.
 
 🌱 I never stop learning current i'm learning about Python, Data science, Big data Pandas, numpy. 
 
