@@ -1,29 +1,23 @@
 ### Hi there 👋
 
-🔭 I'm currently working at https://apostar.com.co Through gitlab user https://gitlab.com/ingeniero_dba-apostar
+🔭 I'm currently working at https://apostar.com.co through gitlab user https://gitlab.com/ingeniero_dba-apostar
 
 *The key to improving current solutions is to know how things work.*
 
-I have formal experience with NGINX, Docker, Django, Node focused on web development.
+I have experience on
+* Web Development: Tools like Nginx, Django, Node
+* Containerization: most of my personal and work projects have Dockerfiles and deployment (production) is on linux containers with Docker
+* Data Base Administrator: Manage databases like Postgresql, Oracle, MongoDB, create tables, indexes, users, monitoring and more
+* Data science: Perform analitics over data about organization, operations, billing, fraud detection, alerts, monitoring. Manage data pipelines, help the organizations to reach a gobernament of data.
+* Server Administrador (Linux): i love linux systems more control, more cheaper and Open Source
+* Gaming programming Scripts and Server: Some game "servers" are in C++ and projects like https://www.trinitycore.org/, https://www.azerothcore.org/ i love execute, make changes and contribute to private servers that use these projects with custom modifications, fixes and more.
 
 🌱 I never stop learning current i'm learning about Python, Data science, Big data Pandas, numpy. 
 
-i'm currently learning about game developer i'm apassionated for that
-
-i'm reinforcing my knowledge about C++ on projects like https://www.trinitycore.org/, https://www.azerothcore.org/ execute, make custom modifications and learn from that, ocassionallity i contribute to private servers.
-
-Solve exercises from [exercism](https://exercism.org/profiles/Seeking) and [HackerRank](https://www.hackerrank.com/) help me to reinforce my knowledge about algorithms, structures, techniques and programming languages in general (current C#, Python and Go).
+I love solve exercises from [exercism](https://exercism.org/profiles/Seeking) and [HackerRank](https://www.hackerrank.com/) this help me to reinforce my knowledge about algorithms, structures, techniques and programming languages in general (current C#, Python and Go).
 
 
 # Table of Contents
-
-- [Stack and Knowledge](#stack-and-knowledge)
-  - [Programming](#programming)
-  - [Web](#web)
-  - [Cloud](#cloud)
-  - [Quality](#quality)
-  - [DB](#db)
-  - [Others](#others)
 - [Projects](#projects)
   - [Technological University of Pereira](#technological-university-of-pereira)
     - [Solving 8puzzle with A\* implemented with Java on Robot Lego Ev3 - Course project](#solving-8puzzle-with-a-implemented-with-java-on-robot-lego-ev3---course-project)
@@ -31,14 +25,35 @@ Solve exercises from [exercism](https://exercism.org/profiles/Seeking) and [Hack
     - [PhytoVision: Sistema de medición de crecimiento In vitro de plántulas de Lactuca sativa L. - Computer Science Master's Thesis](#phytovision-sistema-de-medición-de-crecimiento-in-vitro-de-plántulas-de-lactuca-sativa-l---computer-science-masters-thesis)
     - [Basics in Internet of Things on raspberry Pi - Course Instructor](#basics-in-internet-of-things-on-raspberry-pi---course-instructor)
       - [Public Github Repo with Technical content](#public-github-repo-with-technical-content)
-      - [This was one of extension courses at UTP](#this-was-one-of-extension-courses-at-utp)
+  - [Programming](#programming)
+  - [Web](#web)
+  - [Deployment (Production), Cloud](#deployment-production-cloud)
+  - [Quality](#quality)
+  - [DB](#db)
+  - [Others](#others)
 - [Social media](#social-media)
   - [Linkedin](#linkedin)
 
+# Projects
 
-# Stack and Knowledge
+## Technological University of Pereira
+### Solving 8puzzle with A* implemented with Java on Robot Lego Ev3 - Course project
+https://github.com/SeekingAura/RobotLegoEV3Java8Puzzle
+
+### Mobile App for Bird Recognition at JBUTP - Computer Science Bachelor Thesis
+https://repositorio.utp.edu.co/items/31b214e0-822f-4ddd-b0a1-d61708a1c32a
+
+### PhytoVision: Sistema de medición de crecimiento In vitro de plántulas de Lactuca sativa L. - Computer Science Master's Thesis
+https://repositorio.utp.edu.co/items/85784114-45ed-4161-a9ea-63f1fbe38e19
+
+### Basics in Internet of Things on raspberry Pi - Course Instructor
+This was one of extension courses at UTP https://repositorio.utp.edu.co/items/60522ca7-4709-48aa-be97-41d148fdf572
+#### Public Github Repo with Technical content
+https://github.com/SeekingAura/IoTCurseUTP
+
 
 <!--
+# Stack and Knowledge
 # Simple wya to create vars
 # Bar config
 full_bar_size = 25
@@ -59,8 +74,8 @@ bar_result
 
 # alternative https://github.com/anmol098/waka-readme-stats#new-to-wakatime
 # more check https://github.com/abhisheknaiidu/awesome-github-profile-readme#tools
--->
 This is how I self-define my Skills/knowledge from 0 to 5 where 0 is **Begginer** 5 is **Expert**.
+-->
 
 ## Programming
 <!--
@@ -131,25 +146,6 @@ MQTT (RabbitMQ), █████████████░░░░░░░░
 -->
 - VHDL
 - MQTT
-
-# Projects
-
-## Technological University of Pereira
-### Solving 8puzzle with A* implemented with Java on Robot Lego Ev3 - Course project
-https://github.com/SeekingAura/RobotLegoEV3Java8Puzzle
-
-### Mobile App for Bird Recognition at JBUTP - Computer Science Bachelor Thesis
-https://repositorio.utp.edu.co/items/31b214e0-822f-4ddd-b0a1-d61708a1c32a
-
-### PhytoVision: Sistema de medición de crecimiento In vitro de plántulas de Lactuca sativa L. - Computer Science Master's Thesis
-https://repositorio.utp.edu.co/items/85784114-45ed-4161-a9ea-63f1fbe38e19
-
-### Basics in Internet of Things on raspberry Pi - Course Instructor
-#### Public Github Repo with Technical content
-https://github.com/SeekingAura/IoTCurseUTP
-
-#### This was one of extension courses at UTP
-https://repositorio.utp.edu.co/items/60522ca7-4709-48aa-be97-41d148fdf572
 
 # Social media
 
